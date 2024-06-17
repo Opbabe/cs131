@@ -1,0 +1,9 @@
+mkdir a1
+cd a1
+ls /proc | grep mem
+ls /proc | grep cpu
+head /proc/meminfo
+tail /proc/cpuinfo
+cat /proc/cpuinfo | grep "model name"
+cat /etc/os-release
+
