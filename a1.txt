@@ -22,7 +22,7 @@ Active:         18007616 kB
 Inactive:       26860352 kB
 Active(anon):    2416128 kB
 Inactive(anon):  4590208 kB
-                                                              10,2          Top
+                                                            
 6:
 processor       : 0
 cpu             : POWER8 (architected), altivec supported
